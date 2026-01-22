@@ -1,0 +1,7 @@
+# Sample list for VarScan example
+# All samples will be evaluated
+QH_25_321A	+
+QH_25_320A	+
+QH_25_025A	+
+QH_25_024A	+
+QH_19_306	+
